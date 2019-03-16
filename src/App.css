@@ -1,0 +1,13 @@
+.App {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 30px 20px;
+}
+.App h1 {
+  text-align: center;
+  color: #222222;
+  margin-bottom: 30px;
+}
+ul {
+  padding: 0 50px;
+}
